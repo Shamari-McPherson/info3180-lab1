@@ -7,11 +7,13 @@ body {
 
 }
 
-html{
-  background-color: rgb(192, 185, 185);
-}
-
 .container {
   max-width: 960px;
   margin: 0 auto;
 }
+
+html{
+  background-color: rgb(192, 185, 185);
+}
+
+
